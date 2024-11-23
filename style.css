@@ -1,0 +1,44 @@
+body{
+    background-color: #00405C ;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    background-color: white;
+    width: 500px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+label{
+    color: red;
+}
+textarea{
+    margin-top: 15px;
+    width: 450px;
+    height:150px ;
+}
+.input{
+    margin-top: 15px;
+    width: 480px;
+}
+button{
+    width: 55px;
+    background-color: #00998b;
+    color: white;
+    font-size: 17px;
+}
+button:hover{
+    background-color: gray;
+}
+p{
+    text-align: center;
+    color: white;
+}
